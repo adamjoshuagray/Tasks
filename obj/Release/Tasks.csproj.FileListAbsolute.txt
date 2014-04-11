@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\bin\Release\Tasks.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\bin\Release\Tasks.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\obj\Release\Tasks.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\obj\Release\Tasks.pdb

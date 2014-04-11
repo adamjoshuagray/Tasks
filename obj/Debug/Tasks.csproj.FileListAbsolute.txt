@@ -1,0 +1,10 @@
+c:\documents and settings\adam\my documents\visual studio 2010\Projects\Predictor\Tasks\bin\Debug\Tasks.dll
+c:\documents and settings\adam\my documents\visual studio 2010\Projects\Predictor\Tasks\bin\Debug\Tasks.pdb
+c:\documents and settings\adam\my documents\visual studio 2010\Projects\Predictor\Tasks\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\adam\my documents\visual studio 2010\Projects\Predictor\Tasks\obj\Debug\Tasks.dll
+c:\documents and settings\adam\my documents\visual studio 2010\Projects\Predictor\Tasks\obj\Debug\Tasks.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\bin\Debug\Tasks.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\bin\Debug\Tasks.pdb
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\obj\Debug\Tasks.dll
+C:\Documents and Settings\Owner\My Documents\Dropbox\Code\Predictor\Tasks\obj\Debug\Tasks.pdb
